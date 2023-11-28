@@ -1,0 +1,5 @@
+tasks:
+  - command: code --install-extension ./vscode-h5p-0.0.7.vsix
+ports:
+  - port: 27149
+    visibility: public
